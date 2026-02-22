@@ -13,6 +13,7 @@ Base helps bring more users into Web3.
 ## Risks
 - Dependency on Ethereum
 - Ecosystem still growing
+- ---
 ## How Base Works Technically
 Base uses Optimistic Rollup technology.
 Transactions are processed off-chain and later finalized on Ethereum.
