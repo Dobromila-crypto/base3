@@ -9,3 +9,6 @@ Base helps bring more users into Web3.
 - Built by Coinbase
 - EVM compatible
 - Lower transaction costs
+## Risks
+- Dependency on Ethereum
+- Ecosystem still growing
