@@ -18,6 +18,7 @@ Base helps bring more users into Web3.
 Base uses Optimistic Rollup technology.
 Transactions are processed off-chain and later finalized on Ethereum.
 This reduces cost while keeping Ethereum-level security.
+---
 ## Base vs Other Layer 2 Solutions
 Base competes with other Layer 2 networks such as Arbitrum and Optimism.
 Key comparison areas:
