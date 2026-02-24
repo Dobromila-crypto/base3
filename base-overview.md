@@ -43,3 +43,4 @@ When evaluating Layer 2 solutions, important criteria include:
 - Lower entry costs for users
 - Familiar Ethereum tooling
 - Growing ecosystem support
+refactor: improve introduction clarity and detail
