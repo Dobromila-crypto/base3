@@ -51,3 +51,4 @@ Strategic direction is influenced by its parent organization.
 - Developer grants
 - Exchange integration
 - Community incentives
+For deeper technical understanding of Layer 2 mechanics, see layer2-basics.md.
