@@ -24,3 +24,6 @@ They enable lower fees and improved user experience.
 Ethereum processes a limited number of transactions per second.
 When network demand increases, gas fees rise significantly.
 This creates a scalability bottleneck.
+## Security Model of Layer 2
+Layer 2 networks inherit security from Ethereum by settling transaction data on mainnet.
+This ensures that users can ultimately rely on Ethereum for dispute resolution.
