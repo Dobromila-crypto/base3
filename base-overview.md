@@ -28,3 +28,8 @@ Key comparison areas:
 ## Future Outlook
 Base is positioned to grow as more applications build on Ethereum.
 Adoption will depend on developer activity and ecosystem incentives.
+## Main Use Cases
+- DeFi applications
+- NFT platforms
+- Onchain social networks
+- Developer experimentation
