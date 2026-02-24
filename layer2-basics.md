@@ -11,3 +11,6 @@ Layer 2 helps reduce this pressure.
 - ZK Rollups
 - State Channels
 - Sidechains
+### Optimistic Rollups
+They assume transactions are valid unless challenged.
+Fraud proofs are used to detect incorrect transactions.
