@@ -44,3 +44,6 @@ When evaluating Layer 2 solutions, important criteria include:
 - Familiar Ethereum tooling
 - Growing ecosystem support
 refactor: improve introduction clarity and detail
+## Governance Model
+Base does not currently have a native token for governance.
+Strategic direction is influenced by its parent organization.
