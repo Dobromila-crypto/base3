@@ -3,3 +3,6 @@ Layer 2 networks improve scalability but introduce additional technical and syst
 ## Smart Contract Risk
 Bugs in rollup contracts can compromise funds.
 Auditing and formal verification are critical mitigation strategies.
+## Bridge Risk
+Assets bridged between networks rely on contract integrity.
+Bridge exploits have historically caused significant losses.
