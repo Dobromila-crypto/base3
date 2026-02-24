@@ -17,3 +17,6 @@ Fraud proofs are used to detect incorrect transactions.
 ### ZK Rollups
 They use zero-knowledge proofs to validate transactions.
 This allows fast confirmation with strong security guarantees.
+## Summary
+Layer 2 solutions are essential for Ethereum scalability.
+They enable lower fees and improved user experience.
