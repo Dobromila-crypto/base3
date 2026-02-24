@@ -27,3 +27,6 @@ This creates a scalability bottleneck.
 ## Security Model of Layer 2
 Layer 2 networks inherit security from Ethereum by settling transaction data on mainnet.
 This ensures that users can ultimately rely on Ethereum for dispute resolution.
+## Data Availability
+Rollups publish transaction data to Ethereum.
+This allows independent verification of transaction validity.
