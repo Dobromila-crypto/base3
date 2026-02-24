@@ -6,3 +6,8 @@ They process transactions separately but rely on Ethereum for security.
 Ethereum mainnet can become congested.
 High demand leads to higher gas fees.
 Layer 2 helps reduce this pressure.
+## Types of Layer 2 Solutions
+- Optimistic Rollups
+- ZK Rollups
+- State Channels
+- Sidechains
