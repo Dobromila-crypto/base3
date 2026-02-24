@@ -39,3 +39,7 @@ When evaluating Layer 2 solutions, important criteria include:
 - Cost efficiency
 - Developer adoption
 - User growth
+## Benefits of Building on Base
+- Lower entry costs for users
+- Familiar Ethereum tooling
+- Growing ecosystem support
