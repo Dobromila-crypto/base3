@@ -14,3 +14,6 @@ Layer 2 helps reduce this pressure.
 ### Optimistic Rollups
 They assume transactions are valid unless challenged.
 Fraud proofs are used to detect incorrect transactions.
+### ZK Rollups
+They use zero-knowledge proofs to validate transactions.
+This allows fast confirmation with strong security guarantees.
