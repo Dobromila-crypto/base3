@@ -6,3 +6,6 @@ Auditing and formal verification are critical mitigation strategies.
 ## Bridge Risk
 Assets bridged between networks rely on contract integrity.
 Bridge exploits have historically caused significant losses.
+## Centralization Concerns
+Some Layer 2 networks rely on centralized sequencers.
+This creates potential censorship and uptime risks.
