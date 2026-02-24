@@ -30,3 +30,5 @@ This ensures that users can ultimately rely on Ethereum for dispute resolution.
 ## Data Availability
 Rollups publish transaction data to Ethereum.
 This allows independent verification of transaction validity.
+ZK Rollups rely on cryptographic validity proofs.
+These proofs allow transactions to be verified without revealing full computation details.
