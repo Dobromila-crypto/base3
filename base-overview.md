@@ -33,3 +33,9 @@ Adoption will depend on developer activity and ecosystem incentives.
 - NFT platforms
 - Onchain social networks
 - Developer experimentation
+### Comparison Criteria
+When evaluating Layer 2 solutions, important criteria include:
+- Security model
+- Cost efficiency
+- Developer adoption
+- User growth
