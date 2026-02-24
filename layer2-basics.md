@@ -20,3 +20,7 @@ This allows fast confirmation with strong security guarantees.
 ## Summary
 Layer 2 solutions are essential for Ethereum scalability.
 They enable lower fees and improved user experience.
+## Ethereum Scalability Problem
+Ethereum processes a limited number of transactions per second.
+When network demand increases, gas fees rise significantly.
+This creates a scalability bottleneck.
