@@ -38,3 +38,6 @@ Layer 2 networks significantly increase effective throughput by batching transac
 ## Gas Fee Mechanics
 On Ethereum, users pay gas for computational work.
 Layer 2 reduces this by aggregating multiple transactions into a single batch submission.
+## Finality and Settlement
+Transactions on Layer 2 are finalized after being posted to Ethereum.
+Withdrawal periods may vary depending on rollup type.
