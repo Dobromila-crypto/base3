@@ -32,3 +32,6 @@ Rollups publish transaction data to Ethereum.
 This allows independent verification of transaction validity.
 ZK Rollups rely on cryptographic validity proofs.
 These proofs allow transactions to be verified without revealing full computation details.
+## Transaction Throughput (TPS)
+Ethereum processes roughly 15–20 transactions per second.
+Layer 2 networks significantly increase effective throughput by batching transactions.
