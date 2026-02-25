@@ -35,3 +35,6 @@ These proofs allow transactions to be verified without revealing full computatio
 ## Transaction Throughput (TPS)
 Ethereum processes roughly 15–20 transactions per second.
 Layer 2 networks significantly increase effective throughput by batching transactions.
+## Gas Fee Mechanics
+On Ethereum, users pay gas for computational work.
+Layer 2 reduces this by aggregating multiple transactions into a single batch submission.
