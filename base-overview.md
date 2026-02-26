@@ -55,3 +55,7 @@ For deeper technical understanding of Layer 2 mechanics, see layer2-basics.md.
 ## Strategic Backing
 Base is developed with backing from Coinbase.
 This may accelerate integration and adoption.
+## Example Application Categories
+- Decentralized exchanges
+- NFT marketplaces
+- Onchain social applications
