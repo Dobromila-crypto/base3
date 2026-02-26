@@ -18,3 +18,7 @@ Layer 2 solutions are essential for scaling Ethereum but introduce new complexit
 ## Total Value Locked (TVL)
 TVL measures how much capital is deployed within a network.
 Higher TVL often reflects higher user trust and adoption.
+## User Growth Indicators
+- Daily active addresses
+- Transaction growth rate
+- Protocol deployment activity
