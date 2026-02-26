@@ -18,3 +18,8 @@ Insufficient decentralization may affect long-term trust.
 ## Economic Incentive Risk
 Improper incentive design may weaken network security.
 Historically, cross-chain bridge exploits have resulted in major financial losses across ecosystems.
+## Risk Mitigation Strategies
+- Audits
+- Open-source review
+- Decentralized sequencers
+- Multi-signature governance
