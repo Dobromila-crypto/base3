@@ -7,3 +7,5 @@ Token holders vote on protocol changes.
 This model promotes decentralization but may slow decision-making.
 ## Hybrid Governance
 Some networks transition from centralized to decentralized structures over time.
+## Governance Trade-Offs
+Balancing efficiency and decentralization is a key challenge for scaling networks.
