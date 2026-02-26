@@ -43,3 +43,4 @@ Transactions on Layer 2 are finalized after being posted to Ethereum.
 Withdrawal periods may vary depending on rollup type.
 Fraud proofs allow anyone to challenge invalid transactions during a dispute window.
 Validity proofs mathematically guarantee correctness before settlement.
+---
