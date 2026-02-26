@@ -15,3 +15,6 @@ Layer 2 solutions are essential for scaling Ethereum but introduce new complexit
 | Avg TPS | ~15 | 100+ (effective) |
 | Avg Fee | High | Low |
 | Settlement | Immediate | Batched |
+## Total Value Locked (TVL)
+TVL measures how much capital is deployed within a network.
+Higher TVL often reflects higher user trust and adoption.
