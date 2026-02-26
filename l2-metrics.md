@@ -7,3 +7,5 @@ Batching enables faster confirmation times for users.
 ## Key Observations
 - Rollups dominate the scaling roadmap.
 - User adoption correlates strongly with fee reduction.
+## Reflection
+Layer 2 solutions are essential for scaling Ethereum but introduce new complexities.
