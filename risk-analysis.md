@@ -17,3 +17,4 @@ Protocol upgrades may be controlled by small groups.
 Insufficient decentralization may affect long-term trust.
 ## Economic Incentive Risk
 Improper incentive design may weaken network security.
+Historically, cross-chain bridge exploits have resulted in major financial losses across ecosystems.
