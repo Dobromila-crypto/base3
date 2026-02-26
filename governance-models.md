@@ -5,3 +5,5 @@ This allows faster iteration but reduces decentralization.
 ## DAO-Based Governance
 Token holders vote on protocol changes.
 This model promotes decentralization but may slow decision-making.
+## Hybrid Governance
+Some networks transition from centralized to decentralized structures over time.
