@@ -12,3 +12,6 @@ This creates potential censorship and uptime risks.
 ## Liquidity Fragmentation
 Users must move assets between networks.
 This can reduce capital efficiency across ecosystems.
+## Governance Risk
+Protocol upgrades may be controlled by small groups.
+Insufficient decentralization may affect long-term trust.
