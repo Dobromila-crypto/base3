@@ -15,3 +15,5 @@ This can reduce capital efficiency across ecosystems.
 ## Governance Risk
 Protocol upgrades may be controlled by small groups.
 Insufficient decentralization may affect long-term trust.
+## Economic Incentive Risk
+Improper incentive design may weaken network security.
