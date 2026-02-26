@@ -6,7 +6,8 @@ Layer 2 competition accelerates innovation across networks.
 Security assumptions should always be critically evaluated.
 ## Strategic Insight
 Developer experience is a primary driver of adoption.
-## Next Research Focus
+## Next Research Direction
 - Decentralized sequencer roadmap
-- Cross-chain interoperability
+- - Cross-chain interoperability mechanisms
 - Long-term sustainability analysis
+
