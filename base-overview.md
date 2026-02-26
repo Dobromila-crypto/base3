@@ -59,3 +59,6 @@ This may accelerate integration and adoption.
 - Decentralized exchanges
 - NFT marketplaces
 - Onchain social applications
+## Role of the Sequencer
+The sequencer orders transactions before batching them to Ethereum.
+Centralized sequencers may introduce censorship risks.
