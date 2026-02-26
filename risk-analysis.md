@@ -9,3 +9,6 @@ Bridge exploits have historically caused significant losses.
 ## Centralization Concerns
 Some Layer 2 networks rely on centralized sequencers.
 This creates potential censorship and uptime risks.
+## Liquidity Fragmentation
+Users must move assets between networks.
+This can reduce capital efficiency across ecosystems.
