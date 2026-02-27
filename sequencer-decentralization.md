@@ -6,3 +6,8 @@ Many Layer 2 networks operate with a single centralized sequencer.
 - Transaction censorship
 - Downtime risk
 - MEV capture concentration
+## Decentralized Sequencer Design
+Future models may include:
+- Proof-of-stake sequencing
+- Multi-sequencer rotation
+- Shared sequencing layers
