@@ -23,3 +23,5 @@ Historically, cross-chain bridge exploits have resulted in major financial losse
 - Open-source review
 - Decentralized sequencers
 - Multi-signature governance
+## Contract Complexity
+More complex systems increase audit difficulty.
