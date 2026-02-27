@@ -7,3 +7,5 @@ Bridging enables capital mobility between networks.
 - Lock and mint
 - Burn and release
 - Liquidity-based bridges
+## Interoperability Risks
+Bridges represent one of the largest attack surfaces in crypto.
