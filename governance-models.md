@@ -13,3 +13,5 @@ Balancing efficiency and decentralization is a key challenge for scaling network
 Token holders propose and vote on protocol changes.
 ## Upgradeability Risk
 Admin upgrade keys may introduce centralization concerns.
+## Delegation Systems
+Voting power may be delegated to representatives.
