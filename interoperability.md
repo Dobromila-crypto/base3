@@ -18,3 +18,5 @@ Native interoperability solutions are likely to reduce reliance on centralized b
 Some solutions enable secure contract-to-contract communication between chains.
 ## Liquidity Networks
 Specialized liquidity providers facilitate faster bridging experiences.
+## Native Rollup Interoperability
+Future rollups may communicate without external bridges.
