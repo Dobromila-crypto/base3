@@ -29,3 +29,5 @@ More complex systems increase audit difficulty.
 User activity may decline during bear markets.
 ## Regulatory Risk
 Evolving regulation may impact Layer 2 operations.
+## Infrastructure Dependency
+Reliance on centralized infrastructure providers may introduce bottlenecks.
