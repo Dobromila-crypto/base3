@@ -35,3 +35,5 @@ Layer 2 fees include:
 - Execution cost
 - Data posting cost
 - Sequencer fee
+## Long-Term Viability
+Sustainable models require balanced economics, strong security, and active developer ecosystems.
