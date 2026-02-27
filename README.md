@@ -7,3 +7,5 @@
 - interoperability.md
 - sequencer-decentralization.md
 - l2-metrics.md
+## Purpose
+This repository documents structured research into Layer 2 blockchain scaling systems.
