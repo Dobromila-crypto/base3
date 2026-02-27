@@ -15,3 +15,5 @@ Token holders propose and vote on protocol changes.
 Admin upgrade keys may introduce centralization concerns.
 ## Delegation Systems
 Voting power may be delegated to representatives.
+## Participation Challenges
+Low voter turnout can weaken decentralization effectiveness.
