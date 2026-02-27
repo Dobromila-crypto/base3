@@ -9,3 +9,6 @@ Bridging enables capital mobility between networks.
 - Liquidity-based bridges
 ## Interoperability Risks
 Bridges represent one of the largest attack surfaces in crypto.
+## Trust Assumptions
+Some bridges rely on multisig signers.
+Others rely on cryptographic proofs.
