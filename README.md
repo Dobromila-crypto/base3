@@ -9,3 +9,5 @@
 - l2-metrics.md
 ## Purpose
 This repository documents structured research into Layer 2 blockchain scaling systems.
+## Disclaimer
+This repository represents independent research and analysis for educational purposes.
