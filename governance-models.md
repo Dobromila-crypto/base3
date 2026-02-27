@@ -11,3 +11,5 @@ Some networks transition from centralized to decentralized structures over time.
 Balancing efficiency and decentralization is a key challenge for scaling networks.
 ## Token-Based Governance
 Token holders propose and vote on protocol changes.
+## Upgradeability Risk
+Admin upgrade keys may introduce centralization concerns.
