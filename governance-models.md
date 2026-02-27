@@ -17,3 +17,5 @@ Admin upgrade keys may introduce centralization concerns.
 Voting power may be delegated to representatives.
 ## Participation Challenges
 Low voter turnout can weaken decentralization effectiveness.
+## Governance Comparison Insight
+Governance maturity varies widely across Layer 2 networks.
