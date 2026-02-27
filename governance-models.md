@@ -9,3 +9,5 @@ This model promotes decentralization but may slow decision-making.
 Some networks transition from centralized to decentralized structures over time.
 ## Governance Trade-Offs
 Balancing efficiency and decentralization is a key challenge for scaling networks.
+## Token-Based Governance
+Token holders propose and vote on protocol changes.
