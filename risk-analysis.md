@@ -31,3 +31,5 @@ User activity may decline during bear markets.
 Evolving regulation may impact Layer 2 operations.
 ## Infrastructure Dependency
 Reliance on centralized infrastructure providers may introduce bottlenecks.
+## Risk Summary
+Layer 2 systems improve scalability but introduce layered risk complexity.
