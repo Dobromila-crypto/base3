@@ -20,3 +20,5 @@ Some solutions enable secure contract-to-contract communication between chains.
 Specialized liquidity providers facilitate faster bridging experiences.
 ## Native Rollup Interoperability
 Future rollups may communicate without external bridges.
+## Interoperability Summary
+Secure and efficient cross-chain design remains a core challenge for ecosystem growth.
