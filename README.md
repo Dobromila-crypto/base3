@@ -1,1 +1,9 @@
 # base3
+## Repository Structure
+- base-overview.md
+- layer2-basics.md
+- risk-analysis.md
+- governance-models.md
+- interoperability.md
+- sequencer-decentralization.md
+- l2-metrics.md
