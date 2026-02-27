@@ -16,3 +16,5 @@ Others rely on cryptographic proofs.
 Native interoperability solutions are likely to reduce reliance on centralized bridge operators.
 ## Cross-Chain Messaging
 Some solutions enable secure contract-to-contract communication between chains.
+## Liquidity Networks
+Specialized liquidity providers facilitate faster bridging experiences.
