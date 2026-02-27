@@ -30,3 +30,8 @@ Long-term viability depends on:
 ## Metrics Interpretation
 Performance numbers alone do not determine success.
 Network effects and ecosystem depth are equally important.
+## Cost Breakdown
+Layer 2 fees include:
+- Execution cost
+- Data posting cost
+- Sequencer fee
