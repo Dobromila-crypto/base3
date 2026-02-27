@@ -27,3 +27,5 @@ Historically, cross-chain bridge exploits have resulted in major financial losse
 More complex systems increase audit difficulty.
 ## Market Dependency Risk
 User activity may decline during bear markets.
+## Regulatory Risk
+Evolving regulation may impact Layer 2 operations.
