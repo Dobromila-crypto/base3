@@ -14,3 +14,5 @@ Some bridges rely on multisig signers.
 Others rely on cryptographic proofs.
 ## Future of Cross-Chain Communication
 Native interoperability solutions are likely to reduce reliance on centralized bridge operators.
+## Cross-Chain Messaging
+Some solutions enable secure contract-to-contract communication between chains.
