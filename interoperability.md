@@ -12,3 +12,5 @@ Bridges represent one of the largest attack surfaces in crypto.
 ## Trust Assumptions
 Some bridges rely on multisig signers.
 Others rely on cryptographic proofs.
+## Future of Cross-Chain Communication
+Native interoperability solutions are likely to reduce reliance on centralized bridge operators.
