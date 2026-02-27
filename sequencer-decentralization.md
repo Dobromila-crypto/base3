@@ -11,3 +11,5 @@ Future models may include:
 - Proof-of-stake sequencing
 - Multi-sequencer rotation
 - Shared sequencing layers
+## Roadmap Considerations
+Transitioning to decentralized sequencing requires economic and technical alignment.
