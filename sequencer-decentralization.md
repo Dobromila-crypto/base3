@@ -13,3 +13,7 @@ Future models may include:
 - Shared sequencing layers
 ## Roadmap Considerations
 Transitioning to decentralized sequencing requires economic and technical alignment.
+## Open Research Questions
+- How can decentralized sequencers prevent collusion?
+- What incentive mechanisms ensure honest ordering?
+- Can shared sequencing layers serve multiple rollups securely?
