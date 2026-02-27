@@ -25,3 +25,5 @@ Historically, cross-chain bridge exploits have resulted in major financial losse
 - Multi-signature governance
 ## Contract Complexity
 More complex systems increase audit difficulty.
+## Market Dependency Risk
+User activity may decline during bear markets.
